@@ -10,3 +10,16 @@
 4. Support for css modules
 5. Authentication
 6. dev and prod environments
+
+[incremental static regeneration](./Incremental-Static-Regeneration.md)
+
+## summary of static site generation
+
+![sgr](./assets/sgr.png)
+
+## summary of server side rendering
+
+[Server-side-Rendering](./Server-side-Rendering.md)
+
+summary
+![ssr](./assets/ssr.png)
