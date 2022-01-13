@@ -38,3 +38,15 @@
   - if you export getStaticProps from the page component
     it will run at the built time it return an object with the props property
     this props will be passed to the page component
+    [incremental static regeneration](./Incremental-Static-Regeneration.md)
+
+## summary of static site generation
+
+![sgr](./assets/sgr.png)
+
+## summary of server side rendering
+
+[Server-side-Rendering](./Server-side-Rendering.md)
+
+summary
+![ssr](./assets/ssr.png)
