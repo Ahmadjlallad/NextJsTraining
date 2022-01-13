@@ -48,5 +48,6 @@
 
 [Server-side-Rendering](./Server-side-Rendering.md)
 
-summary
+ssr summary
 ![ssr](./assets/ssr.png)
+[Next Api summary](nextApi.md)
